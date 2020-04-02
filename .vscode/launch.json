@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PlataformaPagamentosApplication<plataforma-pagamentos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.plataforma.pagamentos.plataformapagamentos.PlataformaPagamentosApplication",
+            "projectName": "plataforma-pagamentos",
+            "args": ""
+        }
+    ]
+}
